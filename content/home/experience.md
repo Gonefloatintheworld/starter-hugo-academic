@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Skills
+title: Honors
 subtitle:
 
 # Date format for experience
@@ -22,25 +22,30 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Information technology
+  - title: Postgraduate Academic Scholarship for three consecutive years
     company: Excel, Word, PowerPoint, Visio, Adobe Illustrator, MATLAB, LabVIEW, C/C++, Python, Ubuntu, ROS, etc.
     #company_url: ''
     #company_logo: org-IT
     #location: California
-    date_start: '2020-12-31'
+    date_start: '2020-10-31'
     #date_end: ''
     description:  
 
 
-  - title: Language
+  - title: Academic Scholarship for three consecutive years (top 5%)
     company: TOEFL 87
     #company_url: ''
     #company_logo: org-Lan
     #location: California
-    date_start: '2020-12-31'
-    #date_end: '2020-12-31'
+    date_start: '2017-12-31'
+    date_end: '2019-12-31'
     description: 
 
+  - title: Instrument Scholarship
+    company: TOEFL 87
+    date_start: '2018-12-31'
+    date_end: '2019-12-31'
+
 design:
-  columns: '2'
+  columns: '3'
 ---
