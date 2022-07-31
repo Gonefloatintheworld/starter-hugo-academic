@@ -30,7 +30,7 @@ experience:
     #date_start: '2021-01-01'
     #date_end: ''
     description:  
-        * Microsoft Office: Excel, Word, PowerPoint, Visio
+        * Excel, Word, PowerPoint, Visio
         * Adobe Illustrator
         * MATLAB
         * LabVIEW
