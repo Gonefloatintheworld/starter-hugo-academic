@@ -50,7 +50,7 @@ social:
     icon_pack: fab
     link: https://github.com/Gonefloatintheworld
   - icon: square-code
-    icon_pack: fab
+    icon_pack: fas
     link: https://blog.csdn.net/qq_38766208?spm=1010.2135.3001.5421
 
 # Link to a PDF of your resume/CV.
