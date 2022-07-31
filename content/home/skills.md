@@ -16,15 +16,16 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Excel, Word, PowerPoint, Visio, Adobe Illustrator, MATLAB, LabVIEW, C/C++, Python, Ubuntu, ROS, etc.
+  - description: Excel, Word, PowerPoint, Visio, Adobe Illustrator, etc.
     #icon: r-project
     #icon_pack: fab
-    name: Information technology
+    name: Computer
           
-  - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
+  - description: MATLAB, LabVIEW, C/C++, Python, Ubuntu, ROS, etc.
+    #icon: chart-line
+    #icon_pack: fas
+    name: Programming
+
   - description: TOEFL 87
     #icon: camera-retro
     #icon_pack: fas
