@@ -24,21 +24,21 @@ date_format: Jan 2006
 experience:
   - title: Information technology
     company: Excel, Word, PowerPoint, Visio, Adobe Illustrator, MATLAB, LabVIEW, C/C++, Python, Ubuntu, ROS, etc.
-    company_url: ''
-    company_logo: org-IT
-    location: California
+    #company_url: ''
+    #company_logo: org-IT
+    #location: California
     date_start: '2021-01-01'
-    date_end: ''
+    #date_end: ''
     description:  
 
 
   - title: Language
     company: TOEFL 87
-    company_url: ''
-    company_logo: org-Lan
-    location: California
+    #company_url: ''
+    #company_logo: org-Lan
+    #location: California
     date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    #date_end: '2020-12-31'
     description: TOEFL 87
 
 design:
