@@ -33,6 +33,7 @@ education:
     - course: School of Instrument Science & Engineering
       institution: Southeast University
       year: Expected Jun.2023
+      honors: Postgraduate Academic Scholarship for three consecutive years
     - course: School of Instrument Science & Opto-electronics Engineering
       institution: Hefei University of Technology
       year: Jun.2020
