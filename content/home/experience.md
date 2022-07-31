@@ -49,14 +49,14 @@ experience:
 
   - title: Outstanding student for two consecutive years
     company: ''
-    date_start: '2018-12-31'
-    date_end: '2019-12-31'
+    date_start: '2017-12-31'
+    date_end: '2018-12-31'
     description: 
 
   - title: Outstanding graduate
     company: ''
-    date_start: ''
-    date_end: ''
+    date_start: '2016-06-30'
+    date_end: '2020-06-30'
     description: 
 
 design:
