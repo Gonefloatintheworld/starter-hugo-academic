@@ -26,10 +26,12 @@ interests:
 education:
   courses:
     - course: School of Instrument Science & Engineering
-      institution: Southeast University, G.P.A. 3.4/4.0  Average Grade 88.97/100
+      institution: Southeast University 
+                   G.P.A. 3.4/4.0  Average Grade 88.97/100
       year: Expected Jun.2023
     - course: School of Instrument Science & Opto-electronics Engineering
-      institution: Hefei University of Technology, G.P.A. 3.79/4.3  Rank 4/163
+      institution: Hefei University of Technology 
+                   G.P.A. 3.79/4.3  Rank 4/163
       year: Jun.2020
 
 # Social/Academic Networking
