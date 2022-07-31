@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Information technology
-    #company: GenCoin
-    #company_url: ''
-    #company_logo: org-gc
-    #location: California
-    #date_start: '2021-01-01'
-    #date_end: ''
+    company: GenCoin
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
     description:  
         * Excel, Word, PowerPoint, Visio
         * Adobe Illustrator
@@ -40,12 +40,12 @@ experience:
         * ROS
 
   - title: Language
-    #company: University X
-    #company_url: ''
-    #company_logo: org-x
-    #location: California
-    #date_start: '2016-01-01'
-    #date_end: '2020-12-31'
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
     description: TOEFL 87
 
 design:
