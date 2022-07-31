@@ -25,15 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: School of Instrument Science & Engineering
+      institution: Southeast University
+      year: Expected Jun.2023
+    - course: School of Instrument Science & Opto-electronics Engineering
+      institution: Hefei University of Technology
+      year: Jun.2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
