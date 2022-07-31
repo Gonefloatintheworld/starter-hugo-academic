@@ -22,6 +22,11 @@ interests:
   - Semantic Segmentation
   - Information Retrieval
 
+skills:
+  - Visual SLAM
+  - Semantic Segmentation
+  - Information Retrieval
+
 # Education to show in About widget
 education:
   courses:
