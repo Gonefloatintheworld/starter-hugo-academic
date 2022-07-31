@@ -56,7 +56,7 @@ experience:
   - title: Outstanding graduate
     company: ''
     date_start: '2020-06-30'
-    date_end: ''
+    date_end: '2020-06-30'
     description: 
 
 design:
