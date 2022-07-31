@@ -44,7 +44,7 @@ experience:
   - title: Instrument Scholarship
     company: ''
     date_start: '2018-12-31'
-    date_end: '2019-12-31'
+    date_end: '2018-12-31'
 
 design:
   columns: '3'
