@@ -49,7 +49,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Gonefloatintheworld
-  - icon: <i class="fa-solid fa-monkey"></i>
+  - icon: square-code
     icon_pack: fab
     link: https://blog.csdn.net/qq_38766208?spm=1010.2135.3001.5421
 
