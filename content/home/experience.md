@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postgraduate Academic Scholarship for three consecutive years
-    company: Excel, Word, PowerPoint, Visio, Adobe Illustrator, MATLAB, LabVIEW, C/C++, Python, Ubuntu, ROS, etc.
+    company: ''
     #company_url: ''
     #company_logo: org-IT
     #location: California
@@ -33,7 +33,7 @@ experience:
 
 
   - title: Academic Scholarship for three consecutive years (top 5%)
-    company: TOEFL 87
+    company: ''
     #company_url: ''
     #company_logo: org-Lan
     #location: California
@@ -42,7 +42,7 @@ experience:
     description: 
 
   - title: Instrument Scholarship
-    company: TOEFL 87
+    company: ''
     date_start: '2018-12-31'
     date_end: '2019-12-31'
 
