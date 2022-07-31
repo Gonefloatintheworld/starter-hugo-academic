@@ -46,6 +46,16 @@ experience:
     date_start: '2018-12-31'
     date_end: '2018-12-31'
 
+  - title: Outstanding student for two consecutive years
+    company: ''
+    date_start: '2018-12-31'
+    date_end: '2019-12-31'
+
+  - title: Outstanding graduate
+    company: ''
+    date_start: '2020-6-1'
+    date_end: ''
+
 design:
-  columns: '3'
+  columns: '5'
 ---
