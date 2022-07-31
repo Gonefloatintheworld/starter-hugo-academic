@@ -67,6 +67,6 @@ email: ''
 highlight_name: true
 ---
 
-Li Yawen is a Master of Instrument Science & Technology at the Key Laboratory of Remote Measurement and Control Technology in Jiangsu. His research interests include distributed robotics, viusal SLAM and semantic segmentation. She investigates semantic SLAM towards outdoor dynamic environment, which develops a dynamic model to judge the motion status of objects by comparing the pixel displacement.
+Li Yawen is a Master of Instrument Science & Technology at the Key Laboratory of Remote Measurement and Control Technology in Jiangsu. Her research interests include distributed robotics, viusal SLAM and semantic segmentation. She investigates semantic SLAM towards outdoor dynamic environment, which develops a dynamic model to judge the motion status of objects by comparing the pixel displacement.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
