@@ -27,7 +27,7 @@ experience:
     #company_url: ''
     #company_logo: org-IT
     #location: California
-    date_start: ''
+    date_start: '2020-12-31'
     #date_end: ''
     description:  
 
@@ -37,7 +37,7 @@ experience:
     #company_url: ''
     #company_logo: org-Lan
     #location: California
-    date_start: ''
+    date_start: '2020-12-31'
     #date_end: '2020-12-31'
     description: 
 
