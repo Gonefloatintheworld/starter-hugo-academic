@@ -30,14 +30,7 @@ experience:
     date_start: '2021-01-01'
     date_end: ''
     description:  
-        * Excel, Word, PowerPoint, Visio
-        * Adobe Illustrator
-        * MATLAB
-        * LabVIEW
-        * C/C++
-        * Python
-        * Ubuntu
-        * ROS
+
 
   - title: Language
     company: University X
