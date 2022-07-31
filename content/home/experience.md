@@ -27,7 +27,7 @@ experience:
     #company_url: ''
     #company_logo: org-IT
     #location: California
-    date_start: '2021-01-01'
+    date_start: ''
     #date_end: ''
     description:  
 
@@ -37,9 +37,9 @@ experience:
     #company_url: ''
     #company_logo: org-Lan
     #location: California
-    date_start: '2016-01-01'
+    date_start: ''
     #date_end: '2020-12-31'
-    description: TOEFL 87
+    description: 
 
 design:
   columns: '2'
