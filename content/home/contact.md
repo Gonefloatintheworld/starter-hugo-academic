@@ -28,12 +28,12 @@ content:
   email: liyawen2308@gmail.com
   phone: +86 17354009895
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Si Pai Lou 2
+    city: Nanjing
+    region: Jiangsu
+    postcode: '210096'
+    country: China
+    #country_code: US
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
