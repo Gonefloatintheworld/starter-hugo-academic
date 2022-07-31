@@ -22,18 +22,12 @@ interests:
   - Semantic Segmentation
   - Information Retrieval
 
-skills:
-  - Visual SLAM
-  - Semantic Segmentation
-  - Information Retrieval
-
 # Education to show in About widget
 education:
   courses:
     - course: School of Instrument Science & Engineering
       institution: Southeast University
       year: Expected Jun.2023
-      honors: Postgraduate Academic Scholarship for three consecutive years
     - course: School of Instrument Science & Opto-electronics Engineering
       institution: Hefei University of Technology
       year: Jun.2020
