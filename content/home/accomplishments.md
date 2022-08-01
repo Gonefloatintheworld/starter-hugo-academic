@@ -32,6 +32,12 @@ item:
   - date_start: '2020-07-01'
     organization: DataCamp
     title: 'Object-Oriented Programming in R'
+  - date_start: '2021-01-01'
+    organization: edX
+    title: Blockchain Fundamentals
+  - date_start: '2020-07-01'
+    organization: DataCamp
+    title: 'Object-Oriented Programming in R'
 
 design:
   columns: '2'
