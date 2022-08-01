@@ -1,5 +1,4 @@
 ---
-publication:
   - title: 'Semantic stereo visual SLAM towards outdoor dynamic environment based on ORB-SLAM2'
 
 # Authors
