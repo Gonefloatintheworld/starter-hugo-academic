@@ -37,7 +37,7 @@ item:
     title: The Third Prize
   - date_start: '2019-08-01'
     organization: 2019 “Internet+” Innovation and Entrepreneurship Competition in HFUT
-    title: The Second Priz
+    title: The Second Prize
 design:
   columns: '2'
 ---
