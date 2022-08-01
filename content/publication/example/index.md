@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Semantic stereo visual SLAM towards outdoor dynamic environment based on ORB-SLAM2'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,6 +7,7 @@ title: 'An example conference paper'
 authors:
   - admin
   - Robert Ford
+  - et al.
 
 # Author notes (optional)
 author_notes:
@@ -37,7 +38,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
