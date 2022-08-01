@@ -24,8 +24,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_start: '2021-01-25'
-    organization: Coursera
-    title: Neural Networks and Deep Learning
+    organization: 2018 Interdisciplinary Contest in Modeling
+    title: Honorable Mention
   - date_start: '2021-01-01'
     organization: edX
     title: Blockchain Fundamentals
