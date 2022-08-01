@@ -6,7 +6,7 @@ title: 'Semantic stereo visual SLAM towards outdoor dynamic environment based on
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Guangming Song
   - et al.
 
 # Author notes (optional)
