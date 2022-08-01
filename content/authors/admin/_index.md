@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Li Yawen
+title: Yawen Li
 
 # Is this the primary user of the site?
 superuser: true
