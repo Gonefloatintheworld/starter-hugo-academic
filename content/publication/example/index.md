@@ -40,7 +40,7 @@ publication:
 
 # Display this page in the Featured widget?
     featured: false
-    
+
     url_pdf: ''
     url_code: ''
     url_dataset: ''
@@ -129,7 +129,7 @@ publication:
     url_source: ''
     url_video: ''
 
-    design:
-      columns: '4'
+design:
+  columns: '4'
 ---
 
