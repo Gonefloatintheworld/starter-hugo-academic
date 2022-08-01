@@ -23,22 +23,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - date_start: '2021-01-25'
+  - date_start: '2018-04-01'
     organization: 2018 Interdisciplinary Contest in Modeling
     title: Honorable Mention
-  - date_start: '2021-01-01'
-    organization: edX
-    title: Blockchain Fundamentals
-  - date_start: '2020-07-01'
-    organization: DataCamp
-    title: 'Object-Oriented Programming in R'
-  - date_start: '2021-01-01'
-    organization: edX
-    title: Blockchain Fundamentals
-  - date_start: '2020-07-01'
-    organization: DataCamp
-    title: 'Object-Oriented Programming in R'
-
+  - date_start: '2019-08-01'
+    organization: Fourteenth National Undergraduate NXP Cup Smart Car Competition in 2019
+    title: The Second Prize
+  - date_start: '2018-05-20'
+    organization: 2018 National English Competition for College Students
+    title: The Second Prize
+  - date_start: '2017-12-01'
+    organization: 2017 Mathematical Contest in Modeling in Anhui
+    title: The Third Prize
+  - date_start: '2019-08-01'
+    organization: 2019 “Internet+” Innovation and Entrepreneurship Competition in HFUT
+    title: The Second Prize
 design:
   columns: '2'
 ---
