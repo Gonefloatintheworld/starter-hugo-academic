@@ -5,9 +5,10 @@ title: 'Internal Defect Detection of Overhead Aluminum Conductor Composite Core 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+  - Fei Wang
   - Guangming Song
-  - et al.
+  - Juzheng Mao
+  - Yawen Li
 
 # Author notes (optional)
 author_notes:
@@ -27,8 +28,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Industrial Robot*
-publication_short: submitted in *Industrial Robot*
+publication: In *IEEE Transactions on Instrumentation and Measurement*
+publication_short: submitted in *TIM*
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
