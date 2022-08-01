@@ -8,7 +8,7 @@ authors:
   - Fei Wang
   - Guangming Song
   - Juzheng Mao
-  - Yawen Li
+  - admin
 
 # Author notes (optional)
 author_notes:
