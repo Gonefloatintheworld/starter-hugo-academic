@@ -39,5 +39,5 @@ item:
     organization: 2019 “Internet+” Innovation and Entrepreneurship Competition in HFUT
     title: The Second Prize
 design:
-  columns: '5'
+  columns: '2'
 ---
