@@ -29,7 +29,7 @@ publication_types: ['8']
 publication: In *2021.CN109827680B*
 publication_short: in *This is a patent in Chinese*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 本发明公开了一种基于 CMOS 传感器的三维高灵敏度测微力计，是在由上盖板和圆筒体形成的圆筒形内腔中设置测力单元和感测单元；测力单元为一片铍铜簧片，其具有外固定环和通过弹性梁相连的中心盘面，铍铜簧片利用外固定环支撑在上盖板上，在中心盘面的上表面测力探头，在中心盘面的下表面设置第一平面反射镜，第一平面反射镜的反射面水平向下；感测单元是在圆筒形内腔中设置激光器、第二平面反射镜、聚焦透镜和 CMOS传感器；激光器的出射光依次经由第二平面反射镜和第一平面反射镜反射 后入射到聚焦透镜，聚焦后的出射光入射至 CMOS 传感器的感光面， 以 CMOS 传感器的输出信号为测微力计的输出检测信号。 本发明 灵敏度高、量程可调、测量分辨率高、精度高。
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
