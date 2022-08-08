@@ -1,10 +1,10 @@
 ---
 title: Automatic License Plate Recognition based on LabVIEW  
-summary: Recognized license plate number through the process of image pre-processing, license plate positioning, skeletonized extraction of license plate characters, segmentation of characters by vertical projection method, and OCR recognition.
+summary: · Recognized license plate number through the process of image pre-processing, license plate positioning, skeletonized extraction of license plate characters, segmentation of characters by vertical projection method, and OCR recognition.
 
-tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+#tags:
+  #- Deep Learning
+#date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
