@@ -26,7 +26,7 @@ feature:
     #icon_pack: fas
     name: Programming
 
-  - description: TOEFL 83
+  - description: TOEFL 87
     #icon: camera-retro
     #icon_pack: fas
     name: Language
