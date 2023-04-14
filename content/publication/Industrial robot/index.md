@@ -28,9 +28,20 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Industrial Robot*
-publication_short: major revision in *Industrial Robot*
+publication_short: published in *Industrial Robot*
 
-abstract: Purpose –The prerequisite for most traditional visual simultaneous localization and mapping (V-SLAM) algorithms is that most objects in the environment should be static or in low locomotion. These algorithms rely on geometric information of the environment and restrict the application scenarios with dynamic objects. Semantic segmentation can be used to extract deep features and semantic information from images to identify dynamic objects in the real world. Therefore, V-SLAM fused with semantic information can reduce the error from dynamic objects and achieve higher accuracy. This paper presents a new semantic stereo SLAM method towards outdoor dynamic environment for accurate pose estimation.  Design/methodology/approach –First, Deeplabv3+ semantic segmentation model is adopted to recognize semantic information about objects in the dynamic outdoor scenes. Second, a method that combines prior semantic knowledge to determine the motion state of moveable objects is proposed. which depends on the pixel movement between frames. Last, a semantic stereo SLAM based on ORB-SLAM2 to calculate accurate trajectory in dynamic environments is presented, which selects corresponding feature points on static regions and eliminates useless feature points on dynamic regions. Findings –The method is successfully performed on the public datasets KITTI and self-collected datasets in the real world. The V-SLAM system extracts the semantic information and tracks feature points steadily in dynamic environments. Originality/value – The main contribution of this study is to propose a new semantic stereo V-SLAM method with greater robustness and stability, which reduces the impact of moving objects in dynamic scenes.
+abstract: 
+Purpose
+The prerequisite for most traditional visual simultaneous localization and mapping (V-SLAM) algorithms is that most objects in the environment should be static or in low-speed locomotion. These algorithms rely on geometric information of the environment and restrict the application scenarios with dynamic objects. Semantic segmentation can be used to extract deep features from images to identify dynamic objects in the real world. Therefore, V-SLAM fused with semantic information can reduce the influence from dynamic objects and achieve higher accuracy. This paper aims to present a new semantic stereo V-SLAM method toward outdoor dynamic environments for more accurate pose estimation.
+
+Design/methodology/approach
+First, the Deeplabv3+ semantic segmentation model is adopted to recognize semantic information about dynamic objects in the outdoor scenes. Second, an approach that combines prior knowledge to determine the dynamic hierarchy of moveable objects is proposed, which depends on the pixel movement between frames. Finally, a semantic stereo V-SLAM based on ORB-SLAM2 to calculate accurate trajectory in dynamic environments is presented, which selects corresponding feature points on static regions and eliminates useless feature points on dynamic regions.
+
+Findings
+The proposed method is successfully verified on the public data set KITTI and ZED2 self-collected data set in the real world. The proposed V-SLAM system can extract the semantic information and track feature points steadily in dynamic environments. Absolute pose error and relative pose error are used to evaluate the feasibility of the proposed method. Experimental results show significant improvements in root mean square error and standard deviation error on both the KITTI data set and an unmanned aerial vehicle. That indicates this method can be effectively applied to outdoor environments.
+
+Originality/value
+The main contribution of this study is that a new semantic stereo V-SLAM method is proposed with greater robustness and stability, which reduces the impact of moving objects in dynamic scenes.
 
 
 # Summary. An optional shortened abstract.
