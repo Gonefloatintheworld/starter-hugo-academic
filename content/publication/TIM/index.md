@@ -29,7 +29,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE Transactions on Instrumentation and Measurement*
-publication_short: reject and resubmit in *TIM*
+publication_short: published in *TIM*
 
 abstract: Overhead aluminum conductor composite core (ACCC) transmission lines are applied extensively. However, internal defects of ACCC wires are difficult to be detected, threatening the stability and security of the grid. Thus, a novel automatic detection system using an inspection robot and an object detection model is proposed to solve the problem of detecting internal defects of ACCC wires. Firstly, a new inspection robot with an non-destructive testing (NDT) system consisting of a digital radiography (DR) detection panel and a portable X-ray generator is developed to acquire the X-ray images of ACCC wires. Then, the IN-ACCC dataset is created by acquiring X-ray images of artificial defective ACCC wires and then processing, classifying, and labeling the images. Finally, an anchor-free object detection model named CenterNet-NDT is proposed based on CenterNet. CenterNet-NDT uses the newly proposed CSFPN module for feature fusion. CSFPN is a weighted bi-directional feature pyramid network integrating Convolutional Block Attention Module (CBAM). Compared to CenterNet with different modules, and some state-of-the-art methods, the proposed CenterNet-NDT achieves a greater mAP of 90.23% on the IN-ACCC dataset. The proposed automatic internal defect detection system is verified to be effective and robust by lab experiments and has been repeatedly applied in actual ACCC transmission line inspection tasks to reduce the safety hazards of wire breakage.
 
