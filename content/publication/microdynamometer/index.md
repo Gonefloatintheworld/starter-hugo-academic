@@ -7,6 +7,7 @@ title: 'A three dimensional high sensitivity microdynamometer based on CMOS sens
 authors:
   - Ruijun Li
   - admin
+  - et al
 
 # Author notes (optional)
 author_notes:
