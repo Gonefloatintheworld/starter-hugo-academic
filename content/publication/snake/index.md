@@ -9,14 +9,15 @@ authors:
   - Guangming Song
   - Fei Wang
   - admin
+  - et al
 
 # Author notes (optional)
 author_notes:
   - ''
   - ''
 
-date: '2022-07-01T00:00:00Z'
-doi: ''
+date: '2023-07-01T00:00:00Z'
+doi: 'https://doi.org/10.1109/LRA.2023.3265591'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
