@@ -14,8 +14,8 @@ author_notes:
   - ''
   - ''
 
-date: '2022-08-01T00:00:00Z'
-doi: ''
+date: '2023-04-13T00:00:00Z'
+doi: 'https://doi.org/10.1108/IR-09-2022-0236'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
