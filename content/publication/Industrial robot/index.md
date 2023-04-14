@@ -30,8 +30,7 @@ publication_types: ['2']
 publication: In *Industrial Robot*
 publication_short: published in *Industrial Robot*
 
-abstract: 
-Purpose
+abstract: Purpose
 The prerequisite for most traditional visual simultaneous localization and mapping (V-SLAM) algorithms is that most objects in the environment should be static or in low-speed locomotion. These algorithms rely on geometric information of the environment and restrict the application scenarios with dynamic objects. Semantic segmentation can be used to extract deep features from images to identify dynamic objects in the real world. Therefore, V-SLAM fused with semantic information can reduce the influence from dynamic objects and achieve higher accuracy. This paper aims to present a new semantic stereo V-SLAM method toward outdoor dynamic environments for more accurate pose estimation.
 
 Design/methodology/approach
