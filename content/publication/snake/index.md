@@ -1,12 +1,14 @@
 ---
-title: 'Remote installation system and method of grout nipple for repairing crack of underwater tunnel'
+title: 'Design and Control of a Snake Robot With a Gripper for Inspection and Maintenance in Narrow Spaces'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Zichao Ji
   - Guangming Song
-  - admin
+  - Fei Wang
+  - Yawen Li
 
 # Author notes (optional)
 author_notes:
