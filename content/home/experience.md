@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Outstanding graduate
+    company: ''
+    #company_url: ''
+    #company_logo: org-IT
+    #location: California
+    date_start: '2021-10-31'
+    date_end: '2022-10-31'
+    description:  
+    
   - title: Postgraduate Academic Scholarship for three consecutive years
     company: ''
     #company_url: ''
