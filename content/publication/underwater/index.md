@@ -7,6 +7,7 @@ title: 'Remote installation system and method of grout nipple for repairing crac
 authors:
   - Guangming Song
   - admin
+  - et al
 
 # Author notes (optional)
 author_notes:
